@@ -1,23 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Dec 22, 2018, Saturday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Opened Github, learnt basics of pushing and pulling. Forked 100 days of code for year 2019.
+-Categorized all learning platforms that I already have but unused. 
+-Submit some tutorial tests on repl.it
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Just finished my tests, hopefully the new year will be more code productive! *Yes, it's like a week away but yeah, early preparation is good. * Shu Yan pls rmb to come backkkkk /silently begs myself
 
-**Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Link to work:** Free Code Camp has resources to start with, but mostly web dev. 
+[Free Code Camp] https://learn.freecodecamp.org/
+[Udemy Python Automate the Boring Stuffs] https://www.udemy.com/automate/learn/v4/overview
+[Qazi Programmer Learn Python by Building Projects] https://www.cleverprogrammer.com/products/learn-python-by-building-projects/categories/328648/posts/1023750
+[repl.it Python Autograded Course with Solutions] https://repl.it/student/classrooms/17929
+[OpenCv and Python @ Pyimagesearch]
+[Skillshare]
+[Kaggle - Python for Data Science] https://www.kaggle.com/learn/python
+[Coursera -Program Fundamentals] https://www.coursera.org/learn/learn-to-program/home/welcome *
+[Coursera -Python for Everybody] https://www.coursera.org/specializations/python
+[Code Academy] https://www.codecademy.com/learn/paths/new *
+[Dataquest Python Data Analyst Path] https://www.dataquest.io/dashboard *
+[Coursera Python Basic for Data Science] https://courses.edx.org/courses/course-v1:IBM+PY0101EN+3T2018/course/ *
 
 ### Day 1: June 27, Monday
 
